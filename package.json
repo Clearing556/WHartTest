@@ -10,8 +10,6 @@
     "docs:preview": "vitepress preview docs",
     "docs:build:github": "node deploy-scripts/build-github.js",
     "docs:build:baota": "node deploy-scripts/build-baota.js",
-    "build": "react-scripts build" ,
-    "build": "vue-cli-service build" 
   },
   "keywords": [],
   "author": "",
