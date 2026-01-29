@@ -9,7 +9,8 @@
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
     "docs:build:github": "node deploy-scripts/build-github.js",
-    "docs:build:baota": "node deploy-scripts/build-baota.js"
+    "docs:build:baota": "node deploy-scripts/build-baota.js",
+    "build": "npx vitepress build docs"
   },
   "keywords": [],
   "author": "",
